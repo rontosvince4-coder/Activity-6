@@ -1,6 +1,6 @@
-let score = 85;
-let grade = 90;
-let count = 0;
+let score = 95;
+let grade = 80;
+let count = 50;
 
 if (score >= 90) grade = "Excellent";
 if (score >=75 && score < 90) grade = "Very Good";

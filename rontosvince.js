@@ -1,12 +1,12 @@
-let score = 95;
+let score = 98;
 let grade = 80;
-let count = 50;
+let count = 30;
 
-if (score >= 90) grade = "Excellent";
+if (score >= 90) grade = "Passing";
 if (score >=75 && score < 90) grade = "Very Good";
-if (score < 75) grade = "Good";
+if (score < 75) grade = "Failed";
 
-for (let i = 0; i < 3; i++) {
+for (let i = 5; i < 3; i++) {
   count++;
 }
 

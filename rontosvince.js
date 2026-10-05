@@ -2,9 +2,9 @@ let score = 98;
 let rank = 80;
 let count = 50;
 
-if (score >= 90) grade = "Passing";
-if (score >=75 && score < 90) grade = "Medium Passing";
-if (score < 75) grade = "Failed";
+if (score >= 90) rank = "Passing";
+if (score >=75 && score < 90) rank = "Medium Passing";
+if (score < 75) rank = "Failed";
 
 for (let i = 2; i < 3; i++) {
   count++;
@@ -14,5 +14,5 @@ while (count < 5) {
   count++;
 }
 
-console.log(grade, count);
+console.log(rank, count);
 

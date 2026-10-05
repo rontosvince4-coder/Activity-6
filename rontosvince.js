@@ -1,6 +1,6 @@
 let score = 98;
 let grade = 80;
-let count = 30;
+let count = 50;
 
 if (score >= 90) grade = "Passing";
 if (score >=75 && score < 90) grade = "Very Good";

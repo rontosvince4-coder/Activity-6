@@ -10,7 +10,7 @@ for (let i = 2; i < 3; i++) {
   count++;
 }
 
-while (count < 0) {
+while (count < 5) {
   count++;
 }
 

@@ -6,7 +6,7 @@ if (score >= 90) grade = "Passing";
 if (score >=75 && score < 90) grade = "Very Good";
 if (score < 75) grade = "Failed";
 
-for (let i = 5; i < 3; i++) {
+for (let i = 2; i < 3; i++) {
   count++;
 }
 

@@ -1,5 +1,5 @@
 let score = 98;
-let grade = 80;
+let rank = 80;
 let count = 50;
 
 if (score >= 90) grade = "Passing";
